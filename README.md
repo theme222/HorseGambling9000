@@ -1,0 +1,1 @@
+Not ment for actual use and has no guarantees. Completely vibe coded.
