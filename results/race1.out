@@ -1,0 +1,153 @@
+
+--- HERD: 0.0 ---
+
+--- OPTIMAL TOURNAMENT STRATEGY ---
+Targeting Top 100 against 290 players.
+Herd Behavior: 0.0% playing Max EV (0 people).
+
+Your Optimal Token Split:
+Horse 1 (Odds 3.33, True Prob 33.6%): 1200 tokens
+Horse 3 (Odds 8.0, True Prob 15.0%): 900 tokens
+Horse 6 (Odds 20.0, True Prob 5.4%): 900 tokens
+
+Estimated probability of achieving Top 100: 76.40%
+
+--- HERD: 0.1 ---
+
+--- OPTIMAL TOURNAMENT STRATEGY ---
+Targeting Top 100 against 290 players.
+Herd Behavior: 10.0% playing Max EV (29 people).
+
+Your Optimal Token Split:
+Horse 1 (Odds 3.33, True Prob 33.6%): 900 tokens
+Horse 3 (Odds 8.0, True Prob 15.0%): 1200 tokens
+Horse 6 (Odds 20.0, True Prob 5.4%): 900 tokens
+
+Estimated probability of achieving Top 100: 76.18%
+
+--- HERD: 0.2 ---
+
+--- OPTIMAL TOURNAMENT STRATEGY ---
+Targeting Top 100 against 290 players.
+Herd Behavior: 20.0% playing Max EV (58 people).
+
+Your Optimal Token Split:
+Horse 1 (Odds 3.33, True Prob 33.6%): 900 tokens
+Horse 3 (Odds 8.0, True Prob 15.0%): 1500 tokens
+Horse 6 (Odds 20.0, True Prob 5.4%): 600 tokens
+
+Estimated probability of achieving Top 100: 66.38%
+
+--- HERD: 0.3 ---
+
+--- OPTIMAL TOURNAMENT STRATEGY ---
+Targeting Top 100 against 290 players.
+Herd Behavior: 30.0% playing Max EV (87 people).
+
+Your Optimal Token Split:
+Horse 1 (Odds 3.33, True Prob 33.6%): 900 tokens
+Horse 3 (Odds 8.0, True Prob 15.0%): 1800 tokens
+Horse 6 (Odds 20.0, True Prob 5.4%): 300 tokens
+
+Estimated probability of achieving Top 100: 53.97%
+
+--- HERD: 0.4 ---
+
+--- OPTIMAL TOURNAMENT STRATEGY ---
+Targeting Top 100 against 290 players.
+Herd Behavior: 40.0% playing Max EV (116 people).
+
+Your Optimal Token Split:
+Horse 1 (Odds 3.33, True Prob 33.6%): 600 tokens
+Horse 6 (Odds 20.0, True Prob 5.4%): 1200 tokens
+Horse 8 (Odds 40.0, True Prob 2.6%): 1200 tokens
+
+Estimated probability of achieving Top 100: 50.19%
+
+--- HERD: 0.5 ---
+
+--- OPTIMAL TOURNAMENT STRATEGY ---
+Targeting Top 100 against 290 players.
+Herd Behavior: 50.0% playing Max EV (145 people).
+
+Your Optimal Token Split:
+Horse 1 (Odds 3.33, True Prob 33.6%): 600 tokens
+Horse 6 (Odds 20.0, True Prob 5.4%): 1200 tokens
+Horse 8 (Odds 40.0, True Prob 2.6%): 1200 tokens
+
+Estimated probability of achieving Top 100: 49.31%
+
+--- HERD: 0.6 ---
+
+--- OPTIMAL TOURNAMENT STRATEGY ---
+Targeting Top 100 against 290 players.
+Herd Behavior: 60.0% playing Max EV (174 people).
+
+Your Optimal Token Split:
+Horse 1 (Odds 3.33, True Prob 33.6%): 300 tokens
+Horse 3 (Odds 8.0, True Prob 15.0%): 300 tokens
+Horse 6 (Odds 20.0, True Prob 5.4%): 1200 tokens
+Horse 7 (Odds 40.0, True Prob 2.4%): 600 tokens
+Horse 8 (Odds 40.0, True Prob 2.6%): 600 tokens
+
+Estimated probability of achieving Top 100: 50.82%
+
+--- HERD: 0.7 ---
+
+--- OPTIMAL TOURNAMENT STRATEGY ---
+Targeting Top 100 against 290 players.
+Herd Behavior: 70.0% playing Max EV (203 people).
+
+Your Optimal Token Split:
+Horse 1 (Odds 3.33, True Prob 33.6%): 1200 tokens
+Horse 2 (Odds 3.33, True Prob 26.4%): 900 tokens
+Horse 4 (Odds 8.0, True Prob 10.0%): 300 tokens
+Horse 5 (Odds 20.0, True Prob 4.6%): 300 tokens
+Horse 6 (Odds 20.0, True Prob 5.4%): 300 tokens
+
+Estimated probability of achieving Top 100: 52.58%
+
+--- HERD: 0.8 ---
+
+--- OPTIMAL TOURNAMENT STRATEGY ---
+Targeting Top 100 against 290 players.
+Herd Behavior: 80.0% playing Max EV (232 people).
+
+Your Optimal Token Split:
+Horse 1 (Odds 3.33, True Prob 33.6%): 1200 tokens
+Horse 2 (Odds 3.33, True Prob 26.4%): 900 tokens
+Horse 4 (Odds 8.0, True Prob 10.0%): 300 tokens
+Horse 5 (Odds 20.0, True Prob 4.6%): 300 tokens
+Horse 6 (Odds 20.0, True Prob 5.4%): 300 tokens
+
+Estimated probability of achieving Top 100: 53.44%
+
+--- HERD: 0.9 ---
+
+--- OPTIMAL TOURNAMENT STRATEGY ---
+Targeting Top 100 against 290 players.
+Herd Behavior: 90.0% playing Max EV (261 people).
+
+Your Optimal Token Split:
+Horse 1 (Odds 3.33, True Prob 33.6%): 1200 tokens
+Horse 2 (Odds 3.33, True Prob 26.4%): 900 tokens
+Horse 4 (Odds 8.0, True Prob 10.0%): 300 tokens
+Horse 5 (Odds 20.0, True Prob 4.6%): 300 tokens
+Horse 6 (Odds 20.0, True Prob 5.4%): 300 tokens
+
+Estimated probability of achieving Top 100: 52.47%
+
+--- HERD: 1.0 ---
+
+--- OPTIMAL TOURNAMENT STRATEGY ---
+Targeting Top 100 against 290 players.
+Herd Behavior: 100.0% playing Max EV (290 people).
+
+Your Optimal Token Split:
+Horse 1 (Odds 3.33, True Prob 33.6%): 1200 tokens
+Horse 2 (Odds 3.33, True Prob 26.4%): 900 tokens
+Horse 4 (Odds 8.0, True Prob 10.0%): 300 tokens
+Horse 5 (Odds 20.0, True Prob 4.6%): 300 tokens
+Horse 6 (Odds 20.0, True Prob 5.4%): 300 tokens
+
+Estimated probability of achieving Top 100: 52.40%
