@@ -6,11 +6,12 @@ Targeting Top 100 against 290 players.
 Herd Behavior: 0.0% playing Max EV (0 people).
 
 Your Optimal Token Split:
-Horse 1 (Odds 3.33, True Prob 33.6%): 1200 tokens
+Horse 1 (Odds 3.33, True Prob 33.6%): 900 tokens
+Horse 2 (Odds 3.33, True Prob 26.4%): 300 tokens
 Horse 3 (Odds 8.0, True Prob 15.0%): 900 tokens
 Horse 6 (Odds 20.0, True Prob 5.4%): 900 tokens
 
-Estimated probability of achieving Top 100: 76.40%
+Estimated probability of achieving Top 100: 76.68%
 
 --- HERD: 0.1 ---
 
@@ -23,7 +24,7 @@ Horse 1 (Odds 3.33, True Prob 33.6%): 900 tokens
 Horse 3 (Odds 8.0, True Prob 15.0%): 1200 tokens
 Horse 6 (Odds 20.0, True Prob 5.4%): 900 tokens
 
-Estimated probability of achieving Top 100: 76.18%
+Estimated probability of achieving Top 100: 76.95%
 
 --- HERD: 0.2 ---
 
@@ -36,7 +37,7 @@ Horse 1 (Odds 3.33, True Prob 33.6%): 900 tokens
 Horse 3 (Odds 8.0, True Prob 15.0%): 1500 tokens
 Horse 6 (Odds 20.0, True Prob 5.4%): 600 tokens
 
-Estimated probability of achieving Top 100: 66.38%
+Estimated probability of achieving Top 100: 65.88%
 
 --- HERD: 0.3 ---
 
@@ -45,11 +46,11 @@ Targeting Top 100 against 290 players.
 Herd Behavior: 30.0% playing Max EV (87 people).
 
 Your Optimal Token Split:
-Horse 1 (Odds 3.33, True Prob 33.6%): 900 tokens
-Horse 3 (Odds 8.0, True Prob 15.0%): 1800 tokens
+Horse 1 (Odds 3.33, True Prob 33.6%): 600 tokens
+Horse 3 (Odds 8.0, True Prob 15.0%): 2100 tokens
 Horse 6 (Odds 20.0, True Prob 5.4%): 300 tokens
 
-Estimated probability of achieving Top 100: 53.97%
+Estimated probability of achieving Top 100: 51.93%
 
 --- HERD: 0.4 ---
 
@@ -62,7 +63,7 @@ Horse 1 (Odds 3.33, True Prob 33.6%): 600 tokens
 Horse 6 (Odds 20.0, True Prob 5.4%): 1200 tokens
 Horse 8 (Odds 40.0, True Prob 2.6%): 1200 tokens
 
-Estimated probability of achieving Top 100: 50.19%
+Estimated probability of achieving Top 100: 48.91%
 
 --- HERD: 0.5 ---
 
@@ -71,11 +72,12 @@ Targeting Top 100 against 290 players.
 Herd Behavior: 50.0% playing Max EV (145 people).
 
 Your Optimal Token Split:
-Horse 1 (Odds 3.33, True Prob 33.6%): 600 tokens
-Horse 6 (Odds 20.0, True Prob 5.4%): 1200 tokens
-Horse 8 (Odds 40.0, True Prob 2.6%): 1200 tokens
+Horse 1 (Odds 3.33, True Prob 33.6%): 1200 tokens
+Horse 3 (Odds 8.0, True Prob 15.0%): 600 tokens
+Horse 6 (Odds 20.0, True Prob 5.4%): 600 tokens
+Horse 8 (Odds 40.0, True Prob 2.6%): 600 tokens
 
-Estimated probability of achieving Top 100: 49.31%
+Estimated probability of achieving Top 100: 49.45%
 
 --- HERD: 0.6 ---
 
@@ -90,7 +92,7 @@ Horse 6 (Odds 20.0, True Prob 5.4%): 1200 tokens
 Horse 7 (Odds 40.0, True Prob 2.4%): 600 tokens
 Horse 8 (Odds 40.0, True Prob 2.6%): 600 tokens
 
-Estimated probability of achieving Top 100: 50.82%
+Estimated probability of achieving Top 100: 51.22%
 
 --- HERD: 0.7 ---
 
@@ -105,7 +107,7 @@ Horse 4 (Odds 8.0, True Prob 10.0%): 300 tokens
 Horse 5 (Odds 20.0, True Prob 4.6%): 300 tokens
 Horse 6 (Odds 20.0, True Prob 5.4%): 300 tokens
 
-Estimated probability of achieving Top 100: 52.58%
+Estimated probability of achieving Top 100: 53.19%
 
 --- HERD: 0.8 ---
 
@@ -120,7 +122,7 @@ Horse 4 (Odds 8.0, True Prob 10.0%): 300 tokens
 Horse 5 (Odds 20.0, True Prob 4.6%): 300 tokens
 Horse 6 (Odds 20.0, True Prob 5.4%): 300 tokens
 
-Estimated probability of achieving Top 100: 53.44%
+Estimated probability of achieving Top 100: 53.20%
 
 --- HERD: 0.9 ---
 
@@ -135,7 +137,7 @@ Horse 4 (Odds 8.0, True Prob 10.0%): 300 tokens
 Horse 5 (Odds 20.0, True Prob 4.6%): 300 tokens
 Horse 6 (Odds 20.0, True Prob 5.4%): 300 tokens
 
-Estimated probability of achieving Top 100: 52.47%
+Estimated probability of achieving Top 100: 53.01%
 
 --- HERD: 1.0 ---
 
@@ -150,4 +152,4 @@ Horse 4 (Odds 8.0, True Prob 10.0%): 300 tokens
 Horse 5 (Odds 20.0, True Prob 4.6%): 300 tokens
 Horse 6 (Odds 20.0, True Prob 5.4%): 300 tokens
 
-Estimated probability of achieving Top 100: 52.40%
+Estimated probability of achieving Top 100: 53.34%
