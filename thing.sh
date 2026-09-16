@@ -4,7 +4,7 @@ uv run main.py \
     --race races/race3.json \
     --size 287 \
     --increment 250 \
-    --rank 90 \
+    --rank 70 \
     --max-ev-pct 0.12 \
     --safe-ev-pct 0.14 \
     --high-var-pct 0.10 \
