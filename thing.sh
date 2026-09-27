@@ -1,16 +1,16 @@
 #!/bin/bash
 
 uv run main.py \
-    --race races/race3.json \
+    --race races/race4.json \
     --size 287 \
     --increment 250 \
-    --rank 70 \
-    --max-ev-pct 0.12 \
-    --safe-ev-pct 0.14 \
-    --high-var-pct 0.10 \
-    --pos-ev-pct 0.50 \
-    --random-all-pct 0.12 \
-    --do-nothing-pct 0.02 > results/race3.out
+    --rank 30 \
+    --max-ev-pct 0.08 \
+    --safe-ev-pct 0.15 \
+    --high-var-pct 0.16 \
+    --pos-ev-pct 0.48 \
+    --random-all-pct 0.13 \
+    --do-nothing-pct 0.00 > results/race4.out
     
 # uv run main.py \
 #     --race races/race2.json \
